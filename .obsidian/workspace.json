@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "82241ee64b0ba628",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d70cc1dd767ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f96ec3f538bdc6",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "设计模式/创建型/抽象工厂.md",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73e407d1f734de3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54781e4751fad4ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d39bdf8405d184",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36f81e5b51f51210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d3972c3510d68f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "dc3cfc5b58229351",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea974845b7649535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd6766e27a901b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "978ebd5d0dd597f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b7096e724c0b52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10f5fb47ac25ea35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee69e40db158e78b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a2f96ec3f538bdc6",
+  "lastOpenFiles": [
+    "Template/未命名.md",
+    "未命名.canvas",
+    "Java/OkHttp3学习笔记.md",
+    "Template",
+    "Linux/CentOS7安装Redis7.md",
+    "Linux/CentOS7安装Nginx.md",
+    "Git/Git代理设置.md",
+    "Git/Git基础学习.md",
+    "设计模式/行为型/桥接.md",
+    "Git",
+    "设计模式/结构型/责任链.md",
+    "Vue/Pinia/Pinia学习项目.md",
+    "YIueil/个人简历.md",
+    "README.md",
+    "未分类/自用常用软件.md",
+    "Vue/Pinia",
+    "Spring/SpringMVC创建自定义类型转换器.md",
+    "DataBase/PostgreSQL/PostgreSQL自建函数.md",
+    "Spring",
+    "DataBase/PostgreSQL/PostgreSQL编写实例.md",
+    "DataBase/PostgreSQL/PostgreSQL相似度比较函数.md",
+    "Windows/Windows安装解压版PostgreSQL.md",
+    "未分类/Git代理设置.md",
+    "Java/Optional学习笔记.md",
+    "Windows",
+    "未分类/Intellij系列产品绿化.md",
+    "Linux/CentOS下安装MySQL8.md",
+    "Linux/CentOS7安装PostgreSQL(含离线安装.md",
+    "加密解密/国密算法对应关系.md",
+    "JavaScript/节流和防抖.md",
+    "加密解密",
+    "JavaScript",
+    "DataBase/PostgreSQL",
+    "设计模式/创建型/原型模式.md",
+    "DataBase",
+    "设计模式/结构型"
+  ]
+}
