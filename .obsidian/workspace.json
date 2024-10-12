@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "008d70cc1dd767ff",
+        "id": "f1671cc13de4a3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f96ec3f538bdc6",
+            "id": "b3c3264615f7d69c",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "Template/Markdown文档模板.md",
                 "staged": false
               }
             }
@@ -150,10 +150,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f96ec3f538bdc6",
+  "active": "b3c3264615f7d69c",
   "lastOpenFiles": [
+    "Template/Markdown文档模板.md",
+    "Vue/Pinia/Pinia学习项目.md",
+    "Windows/Windows安装解压版PostgreSQL.md",
     "README.md",
-    "Template/未命名.md",
     "未命名.canvas",
     "Java/OkHttp3学习笔记.md",
     "Template",
@@ -164,7 +166,6 @@
     "设计模式/行为型/桥接.md",
     "Git",
     "设计模式/结构型/责任链.md",
-    "Vue/Pinia/Pinia学习项目.md",
     "YIueil/个人简历.md",
     "未分类/自用常用软件.md",
     "Vue/Pinia",
@@ -173,7 +174,6 @@
     "Spring",
     "DataBase/PostgreSQL/PostgreSQL编写实例.md",
     "DataBase/PostgreSQL/PostgreSQL相似度比较函数.md",
-    "Windows/Windows安装解压版PostgreSQL.md",
     "未分类/Git代理设置.md",
     "Java/Optional学习笔记.md",
     "Windows",
