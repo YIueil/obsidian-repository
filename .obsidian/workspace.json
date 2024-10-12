@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Template/Markdown文档模板.md",
+                "file": ".git.zip",
                 "staged": false
               }
             }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#未分类  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,19 +153,25 @@
   "active": "b3c3264615f7d69c",
   "lastOpenFiles": [
     "Template/Markdown文档模板.md",
+    "README.md",
+    "设计模式/创建型/原型模式.md",
+    "设计模式/创建型/建造者模式.md",
+    "设计模式/创建型/工厂方法.md",
+    "设计模式/创建型/单例模式.md",
+    "设计模式/创建型/抽象工厂.md",
+    "设计模式/结构型/责任链.md",
+    "设计模式/行为型/桥接.md",
+    "加密解密/国密算法对应关系.md",
+    "Git/Git代理设置.md",
+    "Linux/CentOS7安装Redis7.md",
+    "Linux/CentOS7安装Nginx.md",
     "Vue/Pinia/Pinia学习项目.md",
     "Windows/Windows安装解压版PostgreSQL.md",
-    "README.md",
     "未命名.canvas",
     "Java/OkHttp3学习笔记.md",
     "Template",
-    "Linux/CentOS7安装Redis7.md",
-    "Linux/CentOS7安装Nginx.md",
-    "Git/Git代理设置.md",
     "Git/Git基础学习.md",
-    "设计模式/行为型/桥接.md",
     "Git",
-    "设计模式/结构型/责任链.md",
     "YIueil/个人简历.md",
     "未分类/自用常用软件.md",
     "Vue/Pinia",
@@ -178,14 +184,9 @@
     "Java/Optional学习笔记.md",
     "Windows",
     "未分类/Intellij系列产品绿化.md",
-    "Linux/CentOS下安装MySQL8.md",
-    "Linux/CentOS7安装PostgreSQL(含离线安装.md",
-    "加密解密/国密算法对应关系.md",
-    "JavaScript/节流和防抖.md",
     "加密解密",
     "JavaScript",
     "DataBase/PostgreSQL",
-    "设计模式/创建型/原型模式.md",
     "DataBase",
     "设计模式/结构型"
   ]
