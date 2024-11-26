@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaRecycle",
+      "LiHelp",
+      "RiUserLine",
       "LiKey",
-      "RiWindowsLine",
-      "SiWindows11",
-      "FabVuejs",
-      "TiTemplate"
+      "RiWindowsLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,8 @@
   "Spring": "SiSpring",
   "Template": "TiTemplate",
   "Vue": "FabVuejs",
-  "Windows": "RiWindowsLine"
+  "Windows": "RiWindowsLine",
+  "YIueil": "RiUserLine",
+  "README.md": "LiHelp",
+  "草稿箱": "RaRecycle"
 }

@@ -11,13 +11,14 @@
             "id": "e2ef12b917c40c13",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/icons/boxicons.zip",
-                "staged": true
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (boxicons.zip)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -168,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee69e40db158e78b",
+  "active": "d4d39bdf8405d184",
   "lastOpenFiles": [
     "Template/Markdown文档模板.md",
     "设计模式/创建型/抽象工厂.md",
