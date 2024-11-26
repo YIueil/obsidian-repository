@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKey",
       "RiWindowsLine",
       "SiWindows11",
       "FabVuejs",
-      "TiTemplate",
-      "OcKey16"
+      "TiTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,7 +33,7 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "加密解密": "OcKey16",
+  "加密解密": "LiKey",
   "未分类": "RiDraftLine",
   "加密解密/国密算法对应关系.md": "LiFile",
   "草稿箱/云南用途管制国产NTKO控件应用.md": "LiFile",
