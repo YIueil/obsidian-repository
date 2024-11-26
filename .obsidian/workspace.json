@@ -4,34 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "53d102963c1a3601",
+        "id": "f2cc51ea7c56e40a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a14375618e7f66a",
+            "id": "e2ef12b917c40c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未分类/Git代理设置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7857903adea620df",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "设计模式/创建型/抽象工厂.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -74,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -104,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -115,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -126,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -134,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -142,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -163,11 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7857903adea620df",
+  "active": "e2ef12b917c40c13",
   "lastOpenFiles": [
-    "草稿箱/CrossUI多实例表单绑定实现.md",
+    "Template/Markdown文档模板.md",
+    "设计模式/创建型/抽象工厂.md",
     "Pasted image 20241104143125.png",
     "未分类/Git代理设置.md",
+    "草稿箱/CrossUI多实例表单绑定实现.md",
     "未分类/自用常用软件.md",
     "Git/Git代理设置.md",
     "Java/OkHttp3学习笔记.md",
@@ -177,7 +181,6 @@
     "README.md",
     "YIueil/个人简历.md",
     "Git/Git基础学习.md",
-    "设计模式/创建型/抽象工厂.md",
     "JavaScript/节流和防抖.md",
     "Linux/CentOS7安装PostgreSQL(含离线安装.md",
     "Linux/CentOS7安装Nginx.md",
@@ -188,7 +191,6 @@
     "DataBase/PostgreSQL/PostgreSQL编写实例.md",
     "加密解密/国密算法对应关系.md",
     "草稿箱",
-    "Template/Markdown文档模板.md",
     "设计模式/创建型/原型模式.md",
     "设计模式/创建型/建造者模式.md",
     "设计模式/创建型/工厂方法.md",
