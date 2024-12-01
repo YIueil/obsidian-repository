@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Template/Markdown文档模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Template/Markdown文档模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Template/Markdown文档模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Template/Markdown文档模板.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "d4d39bdf8405d184",
   "lastOpenFiles": [
+    "README.md",
     "Template/Markdown文档模板.md",
     "设计模式/创建型/抽象工厂.md",
     "Pasted image 20241104143125.png",
@@ -168,7 +169,6 @@
     "Java/Optional学习笔记.md",
     "Vue/Pinia/Pinia学习项目.md",
     "Windows/Windows安装解压版PostgreSQL.md",
-    "README.md",
     "YIueil/个人简历.md",
     "Git/Git基础学习.md",
     "JavaScript/节流和防抖.md",
