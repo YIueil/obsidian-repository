@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< HEAD
       "LiFile",
+=======
+      "LiLayoutTemplate",
+>>>>>>> origin/master
       "RaRecycle",
       "LiHelp",
       "RiUserLine",
@@ -45,7 +49,7 @@
   "Linux": "SiLinux",
   "设计模式": "SiTextpattern",
   "Spring": "SiSpring",
-  "Template": "TiTemplate",
+  "Template": "LiLayoutTemplate",
   "Vue": "FabVuejs",
   "Windows": "RiWindowsLine",
   "YIueil": "RiUserLine",

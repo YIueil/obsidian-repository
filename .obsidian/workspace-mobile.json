@@ -11,11 +11,14 @@
             "id": "3de7ce1ad1f7dc2e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "README.md",
-                "staged": false
-              }
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -34,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
         }
       },
       {
@@ -49,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
         }
       },
       {
@@ -60,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
         }
       },
       {
@@ -68,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
         }
       }
     ],
@@ -84,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
         }
       },
       {
@@ -100,9 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "出链"
         }
       },
       {
@@ -110,7 +127,11 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
         }
       },
       {
@@ -118,7 +139,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -135,7 +158,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6b2f3b13825bf5",
+  "active": "3de7ce1ad1f7dc2e",
   "lastOpenFiles": [
     "Java/OkHttp3学习笔记.md",
     "README.md"
