@@ -6,15 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-<<<<<<< HEAD
+      "TiTemplate",
       "LiFile",
-=======
-      "LiLayoutTemplate",
->>>>>>> origin/master
       "RaRecycle",
       "LiHelp",
-      "RiUserLine",
-      "LiKey"
+      "RiUserLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,7 +45,7 @@
   "Linux": "SiLinux",
   "设计模式": "SiTextpattern",
   "Spring": "SiSpring",
-  "Template": "LiLayoutTemplate",
+  "Template": "TiTemplate",
   "Vue": "FabVuejs",
   "Windows": "RiWindowsLine",
   "YIueil": "RiUserLine",
