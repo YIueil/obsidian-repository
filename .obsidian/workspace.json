@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "9ded642b51f95c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/节流和防抖.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "节流和防抖"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 290.5
   },
   "right": {
     "id": "dc3cfc5b58229351",
@@ -136,9 +151,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "JavaScript/节流和防抖.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "节流和防抖 的大纲"
             }
           },
           {
@@ -156,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,37 +186,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4d39bdf8405d184",
+  "active": "9ded642b51f95c19",
   "lastOpenFiles": [
+    "草稿箱/DAP4.3业务应用获取材料报表更新DAP表问题.md",
+    "Git/Git基础学习.md",
+    "Git/Git代理设置.md",
+    "加密解密/国密算法对应关系.md",
+    "草稿箱/CrossUI多实例表单绑定实现.md",
+    "Pasted image 20241127090522.png",
+    "Pasted image 20241127090526.png",
+    "草稿箱/云南用途管制国产NTKO控件应用.md",
+    "README.md",
     "Template/Markdown文档模板.md",
     "设计模式/创建型/抽象工厂.md",
     "Pasted image 20241104143125.png",
     "未分类/Git代理设置.md",
-    "草稿箱/CrossUI多实例表单绑定实现.md",
     "未分类/自用常用软件.md",
-    "Git/Git代理设置.md",
     "Java/OkHttp3学习笔记.md",
     "Java/Optional学习笔记.md",
     "Vue/Pinia/Pinia学习项目.md",
     "Windows/Windows安装解压版PostgreSQL.md",
-    "README.md",
     "YIueil/个人简历.md",
-    "Git/Git基础学习.md",
     "JavaScript/节流和防抖.md",
     "Linux/CentOS7安装PostgreSQL(含离线安装.md",
     "Linux/CentOS7安装Nginx.md",
-    "草稿箱/云南用途管制国产NTKO控件应用.md",
     "Pasted image 20241015114527.png",
     "Pasted image 20241015113627.png",
     "DataBase/PostgreSQL/PostgreSQL相似度比较函数.md",
     "DataBase/PostgreSQL/PostgreSQL编写实例.md",
-    "加密解密/国密算法对应关系.md",
     "草稿箱",
     "设计模式/创建型/原型模式.md",
     "设计模式/创建型/建造者模式.md",
     "设计模式/创建型/工厂方法.md",
     "设计模式/创建型/单例模式.md",
-    "设计模式/结构型/责任链.md",
     "未命名.canvas",
     "Template",
     "Git",

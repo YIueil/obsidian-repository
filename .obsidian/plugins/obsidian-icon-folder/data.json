@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "RaRecycle",
       "LiHelp",
       "RiUserLine",
-      "LiKey",
-      "RiWindowsLine"
+      "LiKey"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "Windows": "RiWindowsLine",
   "YIueil": "RiUserLine",
   "README.md": "LiHelp",
-  "草稿箱": "RaRecycle"
+  "草稿箱": "RaRecycle",
+  "草稿箱/DAP4.3业务应用获取材料报表更新DAP表问题.md": "LiFile"
 }
