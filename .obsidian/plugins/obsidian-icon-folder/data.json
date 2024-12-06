@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiTemplate",
       "LiFile",
-      "RaRecycle",
-      "LiHelp",
-      "RiUserLine"
+      "SiMysql",
+      "TiBrandMysql",
+      "SiPostgresql",
+      "OcFileDirectory16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,13 @@
   "YIueil": "RiUserLine",
   "README.md": "LiHelp",
   "草稿箱": "RaRecycle",
-  "草稿箱/DAP4.3业务应用获取材料报表更新DAP表问题.md": "LiFile"
+  "草稿箱/DAP4.3业务应用获取材料报表更新DAP表问题.md": "LiFile",
+  "设计模式/创建型": "OcFileDirectory24",
+  "设计模式/结构型": "OcFileDirectory24",
+  "设计模式/行为型": "OcFileDirectory24",
+  "DataBase/PostgreSQL": "SiPostgresql",
+  "DataBase/MySQL": "TiBrandMysql",
+  "Java/Maven配置指南.md": "LiFile",
+  "Java/OkHttp3学习笔记.md": "LiFile",
+  "Java/Optional学习笔记.md": "LiFile"
 }
