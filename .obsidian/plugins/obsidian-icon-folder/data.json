@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpringboot",
+      "SiSpring",
+      "LiLeaf",
       "LiFile",
-      "SiMysql",
-      "TiBrandMysql",
-      "SiPostgresql",
-      "OcFileDirectory16"
+      "SiMysql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,5 +59,8 @@
   "DataBase/MySQL": "TiBrandMysql",
   "Java/Maven配置指南.md": "LiFile",
   "Java/OkHttp3学习笔记.md": "LiFile",
-  "Java/Optional学习笔记.md": "LiFile"
+  "Java/Optional学习笔记.md": "LiFile",
+  "Spring/SpringMVC": "LiLeaf",
+  "Spring/Spring": "SiSpring",
+  "Spring/SpringBoot": "SiSpringboot"
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35bb282d6fd47a2a",
+        "id": "38da82b91f7b2a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "08a71e7b7aae2dd8",
+            "id": "dfc46b9ff7033613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Maven配置指南.md",
+                "file": "Spring/Spring/Spring学习记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maven配置指南"
+              "title": "Spring学习记录"
             }
           }
         ]
@@ -171,11 +171,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08a71e7b7aae2dd8",
+  "active": "dfc46b9ff7033613",
   "lastOpenFiles": [
-    "Java/OkHttp3学习笔记.md",
+    "Spring/Spring/SpringMVC学习记录-扩展/SpringMVC创建自定义类型转换器.md",
+    "Spring/Spring/Spring学习记录.md",
+    "Spring/Spring/Spring学习记录-扩展/基于AspectJ注解实现Spring动态代理.md",
+    "Spring/Spring/Spring学习记录-扩展/整合篇/Spring整合JPA Hibernate.md",
+    "Spring/Spring/Spring学习记录-扩展/整合篇/Spring整合SpringMVC.md",
+    "Spring/Spring/Spring学习记录-扩展/整合篇/Spring整合Mybatis.md",
+    "Spring/Spring/Spring学习记录-扩展/整合篇",
     "Java/Maven配置指南.md",
+    "Java/OkHttp3学习笔记.md",
     "Java/Optional学习笔记.md",
+    "未命名.md",
+    "Spring/SpringBoot",
+    "Spring/SpringMVC",
+    "Spring/Spring",
+    "Spring/Spring/SpringMVC学习记录-扩展",
+    "().md",
+    "Spring/Spring/Spring学习记录-扩展",
+    "Spring/Spring",
     "Template/Markdown文档模板.md",
     "草稿箱/云南用途管制国产NTKO控件应用.md",
     "草稿箱/CrossUI多实例表单绑定实现.md",
@@ -195,25 +210,10 @@
     "未分类/自用常用软件.md",
     "Vue/Pinia/Pinia学习项目.md",
     "Windows/Windows安装解压版PostgreSQL.md",
-    "YIueil/个人简历.md",
-    "Linux/CentOS7安装PostgreSQL(含离线安装.md",
-    "Linux/CentOS7安装Nginx.md",
     "Pasted image 20241015114527.png",
     "Pasted image 20241015113627.png",
-    "DataBase/PostgreSQL/PostgreSQL相似度比较函数.md",
-    "DataBase/PostgreSQL/PostgreSQL编写实例.md",
     "草稿箱",
-    "设计模式/创建型/原型模式.md",
-    "设计模式/创建型/建造者模式.md",
-    "设计模式/创建型/工厂方法.md",
     "未命名.canvas",
-    "Template",
-    "Git",
-    "Vue/Pinia",
-    "Spring",
-    "Windows",
-    "加密解密",
-    "JavaScript",
-    "DataBase/PostgreSQL"
+    "Template"
   ]
 }
