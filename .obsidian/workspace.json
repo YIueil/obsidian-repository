@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github/通过SSH和GitHub交互.md",
+                "file": "Spring/Spring/Spring学习记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通过SSH和GitHub交互"
+              "title": "Spring学习记录"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "9ba86e2a5bc6c76c",
   "lastOpenFiles": [
-    "Template/Markdown文档模板.md",
     "Git/Github/通过SSH和GitHub交互.md",
+    "Template/Markdown文档模板.md",
     "Git/Git代理设置.md",
     "Git/Git基础学习.md",
     "Git/Github",

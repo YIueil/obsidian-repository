@@ -370,6 +370,9 @@ Spring4.x之后以及后面的SpringBoot推荐的开发方式都是使用注解�
 - @Repository: 指定该类为一个Repository组件，实际同@Component
 - @Scope: 指定类的scope属性, 默认单例singleton
 - @Lazy: 配置后延迟创建单实例对象
+- @Import: 引入另外一组Configuration中的生成的Bean
+- @ImportResource: 引入传统的XML中定义的Bean
+> 组件覆盖优先级: @Component及其衍生注解 < @Bean < XML配置文件Bean
 
 **生命周期相关**
 - @PostConstruct: 指定组件创建初始化的方法，来源于JSR标准规范注解
