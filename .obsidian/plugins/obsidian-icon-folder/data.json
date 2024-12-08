@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGithub",
       "SiSpringboot",
       "SiSpring",
       "LiLeaf",
-      "LiFile",
-      "SiMysql"
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,6 @@
   "Java/Optional学习笔记.md": "LiFile",
   "Spring/SpringMVC": "LiLeaf",
   "Spring/Spring": "SiSpring",
-  "Spring/SpringBoot": "SiSpringboot"
+  "Spring/SpringBoot": "SiSpringboot",
+  "Git/Github": "LiGithub"
 }

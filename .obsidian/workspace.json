@@ -11,10 +11,14 @@
             "id": "9ba86e2a5bc6c76c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/Github/通过SSH和GitHub交互.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "通过SSH和GitHub交互"
             }
           }
         ]
@@ -169,6 +173,11 @@
   },
   "active": "9ba86e2a5bc6c76c",
   "lastOpenFiles": [
+    "Template/Markdown文档模板.md",
+    "Git/Github/通过SSH和GitHub交互.md",
+    "Git/Git代理设置.md",
+    "Git/Git基础学习.md",
+    "Git/Github",
     "Spring/Spring/Spring学习记录.md",
     "Spring/Spring/SpringMVC学习记录-扩展/SpringMVC创建自定义类型转换器.md",
     "Spring/Spring/Spring学习记录-扩展/基于AspectJ注解实现Spring动态代理.md",
@@ -187,7 +196,6 @@
     "().md",
     "Spring/Spring/Spring学习记录-扩展",
     "Spring/Spring",
-    "Template/Markdown文档模板.md",
     "草稿箱/云南用途管制国产NTKO控件应用.md",
     "草稿箱/CrossUI多实例表单绑定实现.md",
     "草稿箱/DAP4.3业务应用获取材料报表更新DAP表问题.md",
@@ -196,8 +204,6 @@
     "README.md",
     "conflict-files-obsidian-git.md",
     "JavaScript/节流和防抖.md",
-    "Git/Git基础学习.md",
-    "Git/Git代理设置.md",
     "加密解密/国密算法对应关系.md",
     "Pasted image 20241127090522.png",
     "Pasted image 20241127090526.png",
@@ -205,11 +211,9 @@
     "未分类/Git代理设置.md",
     "未分类/自用常用软件.md",
     "Vue/Pinia/Pinia学习项目.md",
-    "Windows/Windows安装解压版PostgreSQL.md",
     "Pasted image 20241015114527.png",
     "Pasted image 20241015113627.png",
     "草稿箱",
-    "未命名.canvas",
-    "Template"
+    "未命名.canvas"
   ]
 }
