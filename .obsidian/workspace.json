@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Spring学习记录.md",
+                "file": "Git/Git代理设置.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Spring学习记录"
+              "title": "Git代理设置"
             }
           }
         ]
@@ -173,12 +173,12 @@
   },
   "active": "9ba86e2a5bc6c76c",
   "lastOpenFiles": [
+    "Spring/Spring/Spring学习记录.md",
     "Git/Github/通过SSH和GitHub交互.md",
     "Template/Markdown文档模板.md",
     "Git/Git代理设置.md",
     "Git/Git基础学习.md",
     "Git/Github",
-    "Spring/Spring/Spring学习记录.md",
     "Spring/Spring/SpringMVC学习记录-扩展/SpringMVC创建自定义类型转换器.md",
     "Spring/Spring/Spring学习记录-扩展/基于AspectJ注解实现Spring动态代理.md",
     "Spring/Spring/Spring学习记录-扩展/整合篇/Spring整合JPA Hibernate.md",
