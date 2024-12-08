@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/coolicons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/font-awesome-regular.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/font-awesome-solid.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/icon-brew.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/boxicons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/feather-icons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/rpg-awesome.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/tabler-icons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/font-awesome-brands.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/octicons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/simple-icons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/remix-icons.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
